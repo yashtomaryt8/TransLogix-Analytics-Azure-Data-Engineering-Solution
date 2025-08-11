@@ -76,13 +76,6 @@ logistics-analytics-platform/
 4. Execute transformation notebooks in `/notebooks/` inside Databricks
 5. Open Power BI file from `/powerbi/` and connect to `gold` container
 
-## Getting Started
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yashtomaryt8/TransLogix-Analytics-Azure-Data-Engineering-Solution.git
-    ```
-2. Follow the setup instructions in the `docs/setup.md`.
 
 ## Prerequisites
 
